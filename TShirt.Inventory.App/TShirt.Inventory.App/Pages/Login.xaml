@@ -42,6 +42,6 @@
             <!--<Label Text="Spline:" VerticalOptions="Center" TextColor="Blue" />-->
             <!--<Switch x:Name="ShowSplineSwitch"/>-->
         </StackLayout>
-        <Label x:Name="LblVersion" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" TextColor="{StaticResource TextColor}" HorizontalOptions="CenterAndExpand" VerticalOptions="Start" Text="VERSION 0.0.11" ></Label>
+        <Label x:Name="LblVersion" Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="3" TextColor="{StaticResource TextColor}" HorizontalOptions="CenterAndExpand" VerticalOptions="Start" Text="VERSION 0.0.12" ></Label>
     </Grid>
 </ContentPage>
